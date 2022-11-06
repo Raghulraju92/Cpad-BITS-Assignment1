@@ -30,4 +30,5 @@ School Vaccination Tracker uses a number of open source projects to work properl
 ### Python/Flask - Application Server
 ### Mysql DB - SQL database 
 ### Docker - MySQL Image
+### AWS - The application is hosted in AWS
 
