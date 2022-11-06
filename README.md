@@ -18,10 +18,8 @@ Assignment Objective
 To create working prototype of cross-platform application (involving both frontend and backend components with interactions between them) for the specified user stories using the technologies / frameworks discussed in the classroom sessions
 
 ## Features
-As React Native is a cross-platform framework, the application can be used on Android and iOS devices
-Additionally, there's also support to run the application over web
-Application features authentication and CRUD based operations over student and drive details
-The Dashboard also features the analytics, showing the count of total students, total vaccinated and unvaccinated students
+The Backend Application is developed using Python/Flask. The Web server used to launch the application is gunicorn which runs at 5000. Nginx used as reverse proxy.
+The database used is Mysql and deployed using Docker. The backend receives the request and retrieve data from db and process the data then shared to frontend.
 
 ## Tech
 School Vaccination Tracker uses a number of open source projects to work properly:
