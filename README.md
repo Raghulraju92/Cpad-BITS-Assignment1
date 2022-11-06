@@ -2,7 +2,7 @@
 #### Backend Application Created by: Raghul R. (2021mt13097@wilp.bits-pilani.ac.in)
 
 
-## Frontend Application Powered By
+## Backend Application Powered By
 
 ![image](https://user-images.githubusercontent.com/116338869/200172130-2c52244f-ecaa-4595-b4fb-e15407a0f8b7.png)
 ![image](https://user-images.githubusercontent.com/116338869/200172154-3f67f64c-ec6a-414c-83e1-c6d96036c1e8.png)
